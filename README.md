@@ -1,10 +1,8 @@
 ## NCMatrix
-
 Section: User Commands (1)
 Updated: 2019.08.06
 
 * * *
-
 [ ]()
 
 ### NAME
