@@ -1,18 +1,16 @@
 ## NCMatrix
 Section: User Commands (1)
 Updated: 2019.08.06
-
 * * *
-[ ]()
 
 ### NAME
-NCMatrix - A network monitoring screen saver (derived from CMatrix by Chris Allegretta) [ ]()
+NCMatrix - A network monitoring screen saver (derived from CMatrix by Chris Allegretta)
 
 ### SYNOPSIS
-**ncmatrix** [-abBflohnsVx] [-u update] [-C color] [-H threshold] [-I netdev] [-R color] [-T color] [ ]()
+**ncmatrix** [-abBflohnsVx] [-u update] [-C color] [-H threshold] [-I netdev] [-R color] [-T color]
 
 ### DESCRIPTION
-Shows a console mode scrolling 'Matrix' like screen in Linux with optional network packet activity. [ ]()
+Shows a console mode scrolling 'Matrix' like screen in Linux with optional network packet activity.
 
 #### OPTIONS
 _-a_ Asynchronous scroll
