@@ -9,10 +9,6 @@ jobs:
     
     steps:
     - uses: actions/checkout@v1
-    - name: ncurses
-      run: npm install ncurses
-    - name: glibc6
-      run: npm install glibc6
     - name: configure
       run: ./configure
     - name: make
