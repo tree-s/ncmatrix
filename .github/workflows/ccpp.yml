@@ -13,8 +13,8 @@ jobs:
       run: sudo apt-get install libncurses-dev
     - name: install autotools-dev
       run: sudo apt-get install autotools-dev
-    - name: install aclocal
-      run: sudo apt-get install aclocal
+    - name: install automake
+      run: sudo apt-get install automake
     - name: configure
       run: ./configure
     - name: make
