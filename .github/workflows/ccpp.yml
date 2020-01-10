@@ -9,8 +9,8 @@ jobs:
     
     steps:
     - uses: actions/checkout@v1
-    - name: ncurses
-      run: sudo apt-get install ncurses
+    - name: install libncurses-dev
+      run: sudo apt-get install libncurses-dev
     - name: configure
       run: ./configure
     - name: make
